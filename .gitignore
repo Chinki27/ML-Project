@@ -9,4 +9,7 @@ dist/
 
 logs/
 
-.artifacts/
+artifacts/
+
+.DS_Store
+.vscode
